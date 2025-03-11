@@ -4,6 +4,7 @@
 
 A sleek and intuitive digital task board designed to enhance productivity and streamline project management. This tool allows users to visually organize tasks across various stages or categories, facilitating efficient workflow management.
 
+![Live Preview](public/desk.png)
 ## Table of Contents
 
 - [Overview](#overview)
